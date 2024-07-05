@@ -1,0 +1,4 @@
+#Tue Jul 02 17:34:26 ICT 2024
+base.0=/Users/ahmadyen/Project/flutter-demo/fibonacci_app/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
